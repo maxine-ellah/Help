@@ -1,0 +1,19 @@
+.app {
+  display: flex;
+}
+h1 {
+  margin: 20px 20px;
+}
+.description {
+  color:red;
+  max-width: 705px;
+  padding: 20px;
+}
+.screenshot {
+  box-sizing: border-box;
+  max-width: 460px;
+  padding: 20px;
+}
+body {
+  margin: 100px;
+}
